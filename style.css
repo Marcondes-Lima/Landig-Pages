@@ -1,5 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;800&display=swap');
 
+.matriz {
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    position: relative;
+    color: black;
+}
+
+.demostracao {
+    margin: 20px;
+    padding: 20px;
+    font-size: 22px;
+    display: flex;
+    justify-content: ;
+    align-items: center;
+    height: 15px;
+    position: relative;
+    color: white;
+    font-size: calc(1em + 0,5vw);
+   
+
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -297,4 +324,3 @@ body {
     margin-top: 70px;
     text-align: center;
 }
-
