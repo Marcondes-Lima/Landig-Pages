@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;800&display=swap');
 
 .matriz {
-    margin: 20px;
+    margin: 80px;
     padding: 20px;
     font-size: 30px;
+    font-weight: bold;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,7 +14,7 @@
 }
 
 .demostracao {
-    margin: 20px;
+    margin: 250px;
     padding: 20px;
     font-size: 22px;
     display: flex;
@@ -22,10 +23,16 @@
     height: 15px;
     position: relative;
     color: white;
-    font-size: calc(1em + 0,5vw);
-   
+    font-weight: bold;
+    font-size: calc(1em + 0,5vw); 
 
 }
+
+  
+
+
+
+
 
 * {
     margin: 0;
